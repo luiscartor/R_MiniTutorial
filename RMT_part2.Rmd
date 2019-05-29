@@ -1,0 +1,13 @@
+---
+title: "R Mini Tutorial: Operations and loops"
+author: "luiscartor"
+date: "May 29, 2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Basic operations
+
