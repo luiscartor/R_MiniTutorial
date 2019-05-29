@@ -1,17 +1,16 @@
-# Let's Get Started
+# R Mini Tutorial
 
+## SRE 2019
+
+@snap[south-east span-50]
+![](assets/img/nimbios.png)
+@snapend
 ---
-
-## R Mini Tutorial
 
 ## Why using R?
   - Easy
   - Free
   - Community
+  - GIS and geospatial tools
 
 
-
-
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
