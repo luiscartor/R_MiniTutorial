@@ -1,3 +1,3 @@
 # R_MiniTutorial
 
-Short R tutorial for the NIMBioS' Summer Research Experiences 2019. 
+Short R tutorial for the NIMBioS' 2019 Summer Research Experiences. 
