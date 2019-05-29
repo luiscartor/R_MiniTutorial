@@ -2,7 +2,12 @@
 
 ---
 
-## Add Some Slide Candy
+## R Mini Tutorial
+
+## Why using R?
+  - Easy
+  - Free
+  - Community
 
 
 
