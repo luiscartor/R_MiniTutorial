@@ -3,6 +3,7 @@ layout : center-right
 
 # Look-and-Feel
 logo : assets/images/nimbios.png
+logo-position : bottom-right
 
 theme : night
 theme-override : assets/css/PITCHME.css
