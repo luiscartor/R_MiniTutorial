@@ -1,4 +1,4 @@
-logo : assets/img/logo.png
+logo : assets/img/nimbios.png
 logo-position : bottom-right
 
 @snap[north span-80]
