@@ -1,3 +1,6 @@
+logo : assets/img/logo.png
+logo-position : bottom-right
+
 @snap[north span-80]
 
 # R Mini Tutorial
@@ -7,7 +10,7 @@
 
 @snapend
 
-@snap[south-east span-20]
+@snap[south span-20]
 ![IMAGE](assets/img/nimbios.png)
 @snapend
 
