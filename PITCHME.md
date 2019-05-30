@@ -8,7 +8,7 @@
 @snapend
 
 @snap[south-east span-20]
-!(assets/img/nimbios.png)
+![IMAGE](assets/img/nimbios.png)
 @snapend
 
 
