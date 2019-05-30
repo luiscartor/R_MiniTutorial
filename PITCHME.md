@@ -4,12 +4,20 @@
 
 ## SRE 2019
 
+
 @snapend
 
 @snap[south-east span-20]
 ![](assets/img/nimbios.png)
 @snapend
 
+
+=======
+
+@snap[south-east span-50]
+![](assets/img/nimbios.png)
+@snapend
+=======
 
 ---
 
