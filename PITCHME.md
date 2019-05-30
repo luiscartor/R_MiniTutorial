@@ -1,6 +1,6 @@
 
 
-@snap[north span-30]
+@snap[north span-80]
 
 # R Mini Tutorial
 
