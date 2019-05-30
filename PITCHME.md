@@ -1,10 +1,16 @@
+@snap[north span-20]
+
 # R Mini Tutorial
 
 ## SRE 2019
 
-@snap[south-east span-50]
+@snapend
+
+@snap[south-east span-20]
 ![](assets/img/nimbios.png)
 @snapend
+
+
 ---
 
 ## Why using R?
