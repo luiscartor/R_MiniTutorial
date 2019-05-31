@@ -158,11 +158,17 @@ C
 >
 > 1.  
 >     1 + 0.3 + 0.7<sup>2</sup>
-> 2.  For a = 0.5 and b = 1:
+>      &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+> 2.  For a = 0.5 and b = 1: 
 >     *s**i**n*(*a*)*c**o**s*(*b*)−*c**o**s*(*a*)
-> 3.  
+>     ===========================================
+>
+> 3.  For a = 0.5 and b = 1:
+>     $$\\frac{sin(a)cos(b)}{cos(a)}$$
+>      &gt;&gt;&gt;&gt;&gt;&gt; 7ee0d78e0545a65101691046db9156a8f4cf96ac
+> 4.  
 >     *e*<sup>0.5<sup>2</sup>/4</sup>
-> 4.  For a = 10 and b = 2:
+> 5.  For a = 10 and b = 2:
 >     log(*a*)−3 \* log 10(*b*)
 
 <br>
@@ -262,8 +268,7 @@ Another useful function to create vectors is `rep` (`b <- rep(values,length)`):
 
     ## [1] 3 3 3 3 3
 
-1.2.2 Matrices
---------------
+### 1.2.2 Matrices
 
 Now we are going to take a look how to create and handle matrices in R. All columns in a matrix must have the same data mode (numeric, character, logical, etc.) and the same length. A matrix is created using the following syntax: `m <- matrix(vector, nrow=r, ncol=c, byrow=FALSE, dimnames=list(rnames, cnames))`. See the example:
 
@@ -371,8 +376,7 @@ There are two very useful functions to deal with matrices, and that help us comb
 
 <br>
 
-1.2.2 Data frames
------------------
+### 1.2.2 Data frames
 
 A data frame is similar to a matrix, but different columns can have different data modes (numeric, character, factor, etc.).
 
@@ -426,8 +430,7 @@ df$strings # variable strings in the data frame
     ## [1] one   two   three a     b     c    
     ## Levels: a b c one three two
 
-1.2.3 Lists
------------
+### 1.2.3 Lists
 
 A list can contain anything in each element: vectors, matrices, other lists and other objects:
 
@@ -463,8 +466,7 @@ L[c("B","C")] # Access elements B and C of the list (access by element name)
     ## $C
     ## [1]  TRUE  TRUE  TRUE FALSE  TRUE FALSE
 
-1.2.4 Factors
--------------
+### 1.2.4 Factors
 
 A factor is a variable that can take a finite number of distinct levels. So it is a **nominal** variable. We can build a factor by applying a `factor` function to a vector of any class:
 
