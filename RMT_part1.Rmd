@@ -74,10 +74,6 @@ z1; z2; z3
 
 Note that we can use a semicolon to put two or more commands in one line. In the last line of code, we use the semicolon to print the values of the three z variables.
 
-Apart from
-|sqrt() | squared root |
-
-
 We can combine several operations:
 
 ```{r}
@@ -137,14 +133,10 @@ C
 
 <br>
 
-> ### Excersise: Solve the following equations
+> ### Excercise: Solve the following equations
 >
 > 1. $$1+0.3+0.7^2$$
-<<<<<<< HEAD
 > 2. For a = 0.5 and b = 1: $$sin(a)cos(b)-cos(a)$$ 
-=======
-> 2. For a = 0.5 and b = 1: $$\frac{sin(a)cos(b)}{cos(a)}$$ 
->>>>>>> 7ee0d78e0545a65101691046db9156a8f4cf96ac
 > 3. $$e^{0.5^2/4}$$
 > 4. For a = 10 and b = 2: $$ \log(a)-3 * \log10(b) $$
 
@@ -262,7 +254,7 @@ There are two very useful functions to deal with matrices, and that help us comb
 
 <br>
 
-> ### Excercise: Solve the following equations
+> ### Excercises
 > 1. Try to combine matrices m1 and m2 into one single matrix. What are the dimensions of the new matrix?
 > 2. Subset the two first rows of m1 and combine the resulting matrix with m2. What are the dimensions of the new matrix?
 
@@ -334,20 +326,3 @@ factor(v1)
 > ### Challenges
 > 1. Try to access only the string "three" from the list L created previously.
 > 2. Check the class type of each element of list L.
-
-
-<br>
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

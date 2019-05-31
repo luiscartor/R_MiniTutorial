@@ -77,8 +77,6 @@ z1; z2; z3
 
 Note that we can use a semicolon to put two or more commands in one line. In the last line of code, we use the semicolon to print the values of the three z variables.
 
-Apart from |sqrt() | squared root |
-
 We can combine several operations:
 
 ``` r
@@ -154,21 +152,15 @@ C
 
 <br>
 
-> ### Excersise: Solve the following equations
+> ### Excercise: Solve the following equations
 >
 > 1.  
 >     1 + 0.3 + 0.7<sup>2</sup>
->      &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-> 2.  For a = 0.5 and b = 1: 
+> 2.  For a = 0.5 and b = 1:
 >     *s**i**n*(*a*)*c**o**s*(*b*)−*c**o**s*(*a*)
->     ===========================================
->
-> 3.  For a = 0.5 and b = 1:
->     $$\\frac{sin(a)cos(b)}{cos(a)}$$
->      &gt;&gt;&gt;&gt;&gt;&gt; 7ee0d78e0545a65101691046db9156a8f4cf96ac
-> 4.  
+> 3.  
 >     *e*<sup>0.5<sup>2</sup>/4</sup>
-> 5.  For a = 10 and b = 2:
+> 4.  For a = 10 and b = 2:
 >     log(*a*)−3 \* log 10(*b*)
 
 <br>
@@ -369,7 +361,7 @@ There are two very useful functions to deal with matrices, and that help us comb
 
 <br>
 
-> ### Excercise: Solve the following equations
+> ### Excercises
 >
 > 1.  Try to combine matrices m1 and m2 into one single matrix. What are the dimensions of the new matrix?
 > 2.  Subset the two first rows of m1 and combine the resulting matrix with m2. What are the dimensions of the new matrix?
@@ -499,26 +491,3 @@ factor(v1)
 >
 > 1.  Try to access only the string "three" from the list L created previously.
 > 2.  Check the class type of each element of list L.
-
-<br>
-
-``` r
-summary(cars)
-```
-
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
-
-Including Plots
----------------
-
-You can also embed plots, for example:
-
-![](RMT_part1_files/figure-markdown_github/pressure-1.png)
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
