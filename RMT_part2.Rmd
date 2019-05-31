@@ -1,5 +1,5 @@
 ---
-title: "R Mini Tutorial: Operations and loops"
+title: "R Mini Tutorial: R Environment, reading/writting, and basic executions"
 author: "luiscartor"
 date: "May 29, 2019"
 output: github_document
@@ -9,6 +9,38 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Basic operations
+## 2.1 The R environment
+
+### 2.1.1 Working directory
+
+### 2.1.2 Installing and loading packages
+
+### 2.1.3 Getting help
 
 
+
+## 2.2 Reading and writing
+
+### 2.2.1 Reading files
+
+### 2.2.2 Writing files
+
+
+
+## 2.3 Basic executions
+
+### 2.3.1 Conditional execution
+
+### 2.3.2 Loops
+
+
+## 2.4 Statistical models
+
+### 2.4.1 Linear models
+
+### 2.4.2 ANOVAs
+
+
+## 2.5 Plotting in R
+
+### 2.5.1 The plot() function

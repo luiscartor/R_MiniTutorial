@@ -1,0 +1,21 @@
+---
+title: "R Mini Tutorial: R for spatial modelling"
+author: "luiscartor"
+date: "May 29, 2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 3.1 Raster data
+
+### 3.1.1 Working directory
+
+## 3.2 Vector data
+
+### 3.2.1 
+
+
+## 3.3 Spatial analysis
