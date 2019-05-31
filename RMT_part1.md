@@ -117,9 +117,9 @@ We can use a wide rage of built-in mathematical functions in R
 | cos(), sin(), tan()    | cosine, sine, tangent             |
 | acos(), asin(), atan() | arc-cosine, arc-sine, arc-tangent |
 | exp(x)                 | exponential function              |
-| log(x)                 | natural (base-e) logarithm        |
-| log10(x)               | base-10 logarithm                 |
-| sqrt(x)                | square root, √x                   |
+| log()                  | natural (base-e) logarithm        |
+| log10()                | base-10 logarithm                 |
+| sqrt()                 | square root, √x                   |
 
 For example, try this calculations:
 
@@ -156,12 +156,19 @@ C
 
 > ### Excersise: Solve the following equations
 >
-> 1.  1 + 0.3 + 0.7<sup>2</sup>
-> 2.  For a = 0.5 and b = 1: sin(*a*)cos(*b*)+cos(*a*)
-> 3.  *e**x**p*(0.5<sup>2</sup>/(4))
-> 4.  For a = 10 and b = 2: *l**o**g*(*a*)−3 \* *l**o**g*10(*b*)
+> 1.  
+>     1 + 0.3 + 0.7<sup>2</sup>
+> 2.  For a = 0.5 and b = 1:
+>     $$
+>     \\frac{sin(a)cos(b)}{cos(a)}
+>     $$
+> 3.  
+>     *e*<sup>0.5<sup>2</sup>/4</sup>
+> 4.  For a = 10 and b = 2:
+>     log(*a*)−3 \* log 10(*b*)
 
 <br>
+$$\\frac{sin(a)cos(b)}{cos(a)}$$
 
 1.2 Basics Data Types
 ---------------------
