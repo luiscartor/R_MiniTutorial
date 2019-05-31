@@ -140,12 +140,16 @@ C
 > ### Excersise: Solve the following equations
 >
 > 1. $$1+0.3+0.7^2$$
+<<<<<<< HEAD
 > 2. For a = 0.5 and b = 1: $$sin(a)cos(b)-cos(a)$$ 
+=======
+> 2. For a = 0.5 and b = 1: $$\frac{sin(a)cos(b)}{cos(a)}$$ 
+>>>>>>> 7ee0d78e0545a65101691046db9156a8f4cf96ac
 > 3. $$e^{0.5^2/4}$$
 > 4. For a = 10 and b = 2: $$ \log(a)-3 * \log10(b) $$
 
 <br>
-
+$$\frac{sin(a)cos(b)}{cos(a)}$$ 
 
 ## 1.2 Basic Data Types
 
