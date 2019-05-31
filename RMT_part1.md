@@ -158,6 +158,7 @@ C
 >
 > 1.  
 >     1 + 0.3 + 0.7<sup>2</sup>
+<<<<<<< HEAD
 >      &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
 > 2.  For a = 0.5 and b = 1: 
 >     *s**i**n*(*a*)*c**o**s*(*b*)−*c**o**s*(*a*)
@@ -167,6 +168,11 @@ C
 >     $$\\frac{sin(a)cos(b)}{cos(a)}$$
 >      &gt;&gt;&gt;&gt;&gt;&gt; 7ee0d78e0545a65101691046db9156a8f4cf96ac
 > 4.  
+=======
+> 2.  For a = 0.5 and b = 1:
+>     *s**i**n*(*a*)*c**o**s*(*b*)−*c**o**s*(*a*)
+> 3.  
+>>>>>>> 71ba72a3ddbdca1342d4a3ca81e9f0a690378873
 >     *e*<sup>0.5<sup>2</sup>/4</sup>
 > 5.  For a = 10 and b = 2:
 >     log(*a*)−3 \* log 10(*b*)
