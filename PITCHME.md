@@ -45,11 +45,13 @@ Programming language and environment
 
 ---
 
-@snap[northwest span -40 text-center]
+@snap[north-west span -40 text-center]
+
 ## RStudio
+
 @snapend
 
-@snap[north span -40]
+@snap[west span -40]
 
  - User friendly and free 
  - Integrates R packages, debugging, viewing tools.
