@@ -43,21 +43,23 @@ Programming language and environment
  - Open you computer's terminal
 @olend[]
 
----
+
 ---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
 
 @snap[north-west span -40 text-center]
 
-## RStudio
+## @color[black](**RStudio**)
 
 @snapend
 
-@snap[mid-west span -20]
+@snap[mid-west span-55]
+@ul[spaced text-black]
 
  - User friendly and free 
  - Integrates R packages, debugging, viewing tools.
  - Best practice tools incorporated: documentation, version control.
  - Many useful integrated tools: projects, easy markdown environment, importing/exporting
+ @ulend
  @snapend
 
 @snap[east span -70]
