@@ -45,15 +45,15 @@ Programming language and environment
 
 ---
 
+@snap[northwest span -40 text-center]
 ## RStudio
+@snapend
 
-@snap[west span -40]
- - User friendly and free
- 
+@snap[north span -40]
+
+ - User friendly and free 
  - Integrates R packages, debugging, viewing tools.
- 
  - Best practice tools incorporated: documentation, version control.
-
  - Many useful integrated tools: projects, easy markdown environment, importing/exporting
  @snapend
 
