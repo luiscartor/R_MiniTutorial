@@ -94,9 +94,16 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
     - Spatial analysis
     - Visualization
     
-
-
 ---
+@snap[north]
+### Spatial data types
+@snapend
+
+@snap[mid]
+![spatial](assets/img/spatialdatatypes.png)
+@snapend
 
 
-
+@snap[south]
+![rastervsvector](assets/img/rastervsvector.png)
+@snapend
