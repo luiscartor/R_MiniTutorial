@@ -83,7 +83,7 @@ Programming language and environment
 
 Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_part2
 
----?image=assets/img/ccvel.jpg
+---?image=assets/img/ccvel.png
 
 ### Geospatial analysis: R as a GIS
 
