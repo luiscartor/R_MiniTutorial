@@ -22,7 +22,7 @@ Programming language and environment
 ---
 
 @snap[north-west span -40 text-center]
-## Why using R?
+### Why using R?
 @snapend
 
 @snap[mid-west span-55 text-10]
