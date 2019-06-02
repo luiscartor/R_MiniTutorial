@@ -32,7 +32,7 @@ Programming language and environment
 @snapend
 
 @snap[east span -70]
-![rstudio](assets/img/numberofpacks.png)
+![packs](assets/img/numberofpacks.png)
 @snapend
 
 ---
