@@ -26,9 +26,11 @@ Programming language and environment
 @snapend
 
 @snap[mid-west span-55 text-10]
+@ul[spaced]
   - Easy
   - Free
   - Community: great variety of packages and cocumentation
+@ulend
 @snapend
 
 @snap[east span -70]
