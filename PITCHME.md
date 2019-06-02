@@ -85,6 +85,18 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
 
 ---
 
+### Geospatial analysis and R as a GIS
+
+ - Geostatistics and mapping is core in R
+ - Many of packages for: 
+    - Remote sensing preprocessing
+    - Spatial analysis
+    - Visualization
+ 
+@snap[south span-50]
+![ccvel](assets/img/ccvel.png)
+@snapend
+
 ---
 
 
