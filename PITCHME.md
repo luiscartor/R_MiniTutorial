@@ -83,15 +83,15 @@ Programming language and environment
 
 Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_part2
 
----?image=assets/img/ccvel.png
+---?image=assets/img/ccvel.png&size=cover&opacity=20
 
 ### @color[black](Geospatial analysis: R as a GIS)
 
- - Geostatistics and mapping is core in R
+ ### @color[black](- Geostatistics and mapping is core in R
  - Many of packages for: 
     - Remote sensing preprocessing
     - Spatial analysis
-    - Visualization
+    - Visualization)
 
 
 ---
