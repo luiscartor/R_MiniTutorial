@@ -39,7 +39,7 @@ Programming language and environment
 
 ---
 
-## Today's outline
+### Today's outline
 
 @ol[](false)
  - Basic calculations and data types
@@ -75,7 +75,7 @@ Programming language and environment
  @ulend
  @snapend
 
-@snap[east span -70]
+@snap[east span-50]
 ![rstudio](assets/img/rstudio.png)
 @snapend
 
