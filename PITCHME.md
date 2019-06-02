@@ -28,6 +28,14 @@ Programming language and environment
 
 ---
 
+## Today's outline
+
+ - Basic calculations and data types
+ - RStudio, environment, reading/writting, basic executions
+ - R as a GIS and spatial analysis
+
+---
+
 ## Let's start! 
 
 @ol[](false)
