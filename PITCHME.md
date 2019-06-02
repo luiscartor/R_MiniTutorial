@@ -47,7 +47,7 @@ Programming language and environment
 
 ## RStudio
 
-@snap[east]
+@snap[west span -40]
  - User friendly and free
  
  - Integrates R packages, debugging, viewing tools.
@@ -57,7 +57,7 @@ Programming language and environment
  - Many useful integrated tools: projects, easy markdown environment, importing/exporting
  @snapend
 
-@snap[west]
+@snap[east span -40]
 ![rstudio](assets/img/rstudio.png)
 @snapend
 
