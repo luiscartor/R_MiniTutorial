@@ -33,7 +33,7 @@ Programming language and environment
 @ulend
 @snapend
 
-@snap[east span -40]
+@snap[east span-45]
 ![packs](assets/img/numberofpacks.png)
 @snapend
 
