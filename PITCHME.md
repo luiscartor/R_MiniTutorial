@@ -44,6 +44,7 @@ Programming language and environment
 @olend[]
 
 ---
+---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
 
 @snap[north-west span -40 text-center]
 
@@ -51,7 +52,7 @@ Programming language and environment
 
 @snapend
 
-@snap[mid-west span -40]
+@snap[mid-west span -20]
 
  - User friendly and free 
  - Integrates R packages, debugging, viewing tools.
