@@ -95,8 +95,8 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
     - Visualization
     
 ---
-@snap[north]
-### Spatial data types
+@snap[north text-16]
+Spatial data types
 @snapend
 
 @snap[mid]
@@ -104,6 +104,6 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
 @snapend
 
 
-@snap[south]
+@snap[south span-50]
 ![rastervsvector](assets/img/rastervsvector.png)
 @snapend
