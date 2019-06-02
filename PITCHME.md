@@ -11,7 +11,7 @@
 
 ---
 
-@box[bg-gold text-white rounded box-padding]## What is R?
+@box[bg-gold text-white rounded box-padding](## What is R?)
 
 Programming language and environment
 
