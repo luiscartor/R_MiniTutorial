@@ -28,10 +28,11 @@ Programming language and environment
 
 ---
 
-# Let's start! 
+## Let's start! 
 
 1) Open https://luiscartor.github.io   and go to the first part of the tutorial
-2) Open a you computer's terminal
+
+2) Open you computer's terminal
 
 ---
 
