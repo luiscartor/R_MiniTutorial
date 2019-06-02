@@ -90,9 +90,9 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
 
 - @color[black](Geostatistics and mapping is core in R)
 - @color[black](Many of packages for:)
-    - Remote sensing preprocessing
-    - Spatial analysis
-    - Visualization)
+    - @color[black](Remote sensing preprocessing)
+    - @color[black](Spatial analysis)
+    - @color[black](Visualization)
     
 
 
