@@ -13,7 +13,7 @@
 
 ## What is R?
 
-### Programming language and environment
+Programming language and environment
 
  - Statistical computing
  - Graphics
