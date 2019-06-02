@@ -52,7 +52,7 @@ Programming language and environment
 
 @snapend
 
-@snap[mid-west span-55]
+@snap[mid-west span-55 text-08]
 @ul[spaced text-black]
 
  - User friendly and free 
