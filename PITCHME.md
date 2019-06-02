@@ -93,7 +93,7 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
     - Spatial analysis
     - Visualization
  
-@snap[south span-50]
+@snap[south span-30]
 ![ccvel](assets/img/ccvel.png)
 @snapend
 
