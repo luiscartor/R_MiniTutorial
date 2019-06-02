@@ -1,7 +1,7 @@
 
 
 
-# R Mini Tutorial
+## R Mini Tutorial
 
 ## SRE 2019
 
@@ -13,7 +13,7 @@
 
 ## What is R?
 
-# Programming language and environment
+### Programming language and environment
 
  - Statistical computing
  - Graphics
