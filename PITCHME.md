@@ -45,6 +45,28 @@ Programming language and environment
 
 ---
 
+## RStudio
+
+@snap[east]
+ - User friendly and free
+ 
+ - Integrates R packages, debugging, viewing tools.
+ 
+ - Best practice tools incorporated: documentation, version control.
+
+ - Many useful integrated tools: projects, easy markdown environment, importing/exporting
+ @snapend
+
+@snap[west]
+![rstudio](assets/img/rstudio.png)
+@snapend
+
+---
+
+Go to https://luiscartor.github.io/RMT_part2
+
+---
+
 @snap[north span-80]
 
 # R Mini Tutorial
