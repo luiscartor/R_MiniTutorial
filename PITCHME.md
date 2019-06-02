@@ -11,7 +11,7 @@
 
 ---
 
-@box[bg-blue text-white rounded box-padding](What is R?)
+## What is R?
 
 Programming language and environment
 
