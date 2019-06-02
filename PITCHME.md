@@ -85,16 +85,16 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
 
 ---?image=assets/img/ccvel.png&size=cover&opacity=50
 
-@snap[south]
+
 ### @color[black](Geospatial analysis: R as a GIS)
 
- - @color[black](Geostatistics and mapping is core in R)
- - @color[black](Many of packages for: )
+ @color[black](- Geostatistics and mapping is core in R)
+ @color[black](- Many of packages for: )
     - @color[black](Remote sensing preprocessing)
     - @color[black](Spatial analysis)
     - @color[black](Visualization)
     
-@snapend
+
 
 ---
 
