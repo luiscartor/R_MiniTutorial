@@ -85,7 +85,7 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
 
 ---
 
-### Geospatial analysis and R as a GIS
+#### Geospatial analysis and R as a GIS
 
  - Geostatistics and mapping is core in R
  - Many of packages for: 
