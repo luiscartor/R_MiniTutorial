@@ -81,25 +81,11 @@ Programming language and environment
 
 ---
 
-Go to https://luiscartor.github.io/RMT_part2
-
----
-
-@snap[north span-80]
-
-# R Mini Tutorial
-
-## SRE 2019
-
-
-@snapend
-
+Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_part2
 
 ---
 
 ---
 
----
 
----
 
