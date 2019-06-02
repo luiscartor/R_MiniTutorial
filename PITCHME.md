@@ -57,8 +57,8 @@ Programming language and environment
 
  - User friendly and free 
  - Integrates R packages, debugging, viewing tools.
- - Best practice tools incorporated: documentation, version control.
- - Many useful integrated tools: projects, easy markdown environment, importing/exporting
+ - Best-practice tools: documentation, version control.
+ - Useful integrated tools: projects, markdown environment, importing/exporting
  @ulend
  @snapend
 
