@@ -83,9 +83,8 @@ Programming language and environment
 
 Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_part2
 
----
+---?image=assets/img/ccvel.jpg
 
-@snap[north]
 ### Geospatial analysis: R as a GIS
 
  - Geostatistics and mapping is core in R
@@ -94,11 +93,6 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
     - Spatial analysis
     - Visualization
 
-@snapend
-
-@snap[south span-50]
-![ccvel](assets/img/ccvel.png)
-@snapend
 
 ---
 
