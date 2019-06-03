@@ -110,5 +110,5 @@ Spatial data types
 
 ---?image=assets/img/projections.png
 
-### Projections
+### @color[black](Projections)
 
