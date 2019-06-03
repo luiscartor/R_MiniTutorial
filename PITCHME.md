@@ -95,7 +95,7 @@ Please go to the second part of the tutorial: https://luiscartor.github.io/RMT_p
     - Visualization
     
 ---
-@snap[north text-14]
+@snap[text-14]
 Spatial data types
 @snapend
 
