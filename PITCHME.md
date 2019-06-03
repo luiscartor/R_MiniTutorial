@@ -104,7 +104,7 @@ Spatial data types
 @snapend
 
 
-@snap[south span-40]
+@snap[south span-30]
 ![rastervsvector](assets/img/rastervsvector.png)
 @snapend
 
