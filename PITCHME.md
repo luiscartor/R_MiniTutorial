@@ -107,3 +107,8 @@ Spatial data types
 @snap[south span-40]
 ![rastervsvector](assets/img/rastervsvector.png)
 @snapend
+
+---?image=assets/img/projections.png
+
+### Projections
+
