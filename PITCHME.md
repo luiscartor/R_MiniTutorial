@@ -27,7 +27,7 @@ Programming language and environment
 
 @snap[mid-west span-55 text-10]
 @ul[spaced text-white]
-  - Easy
+  - Relatively easy
   - Free
   - Community: great variety of packages and cocumentation
 @ulend
