@@ -112,6 +112,8 @@ Spatial data types
 
 ### @color[black](Dealing with map projections)
 
+---?image=assets/img/crsexample.jpg
+
 ---
 
 Please go to the third part of the tutorial: https://luiscartor.github.io/RMT_part3
