@@ -1,7 +1,13 @@
-R Mini Tutorial: Getting started and data types
+R Mini Tutorial Part 1: Getting started and data types
 ================
 luiscartor
-May 29, 2019
+June 3, 2019
+
+#### Go to [part 2](https://luiscartor.github.io/RMT_part2) of the tutorial.
+
+#### Go to [part 3](https://luiscartor.github.io/RMT_part3) of the tutorial.
+
+<br>
 
 1. Getting started
 ------------------
@@ -156,27 +162,9 @@ C
 >
 > 1.  
 >     1 + 0.3 + 0.7<sup>2</sup>
-<<<<<<< HEAD
 > 2.  For a = 0.5 and b = 1:
 >     *s**i**n*(*a*)*c**o**s*(*b*)−*c**o**s*(*a*)
 > 3.  
-=======
-<<<<<<< HEAD
->      &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-> 2.  For a = 0.5 and b = 1: 
->     *s**i**n*(*a*)*c**o**s*(*b*)−*c**o**s*(*a*)
->     ===========================================
->
-> 3.  For a = 0.5 and b = 1:
->     $$\\frac{sin(a)cos(b)}{cos(a)}$$
->      &gt;&gt;&gt;&gt;&gt;&gt; 7ee0d78e0545a65101691046db9156a8f4cf96ac
-> 4.  
-=======
-> 2.  For a = 0.5 and b = 1:
->     *s**i**n*(*a*)*c**o**s*(*b*)−*c**o**s*(*a*)
-> 3.  
->>>>>>> 71ba72a3ddbdca1342d4a3ca81e9f0a690378873
->>>>>>> 25774a4b398458984a2042ad37f3ec89908c1986
 >     *e*<sup>0.5<sup>2</sup>/4</sup>
 > 4.  For a = 10 and b = 2:
 >     log(*a*)−3 \* log 10(*b*)
@@ -280,7 +268,7 @@ Another useful function to create vectors is `rep` (`b <- rep(values,length)`):
 
 ### 1.2.2 Matrices
 
-Now we are going to take a look how to create and handle matrices in R. All columns in a matrix must have the same data mode (numeric, character, logical, etc.) and the same length. A matrix is created using the following syntax: `m <- matrix(vector, nrow=r, ncol=c, byrow=FALSE, dimnames=list(rnames, cnames))`. See the example:
+Now we are going to take a look on how to create and handle matrices in R. All columns in a matrix must have the same data mode (numeric, character, logical, etc.) and the same length. A matrix is created using the following syntax: `m <- matrix(vector, nrow=r, ncol=c, byrow=FALSE, dimnames=list(rnames, cnames))`. See the example:
 
 ``` r
   m <- matrix(1:20, nrow=5, ncol=4)
@@ -509,3 +497,7 @@ factor(v1)
 >
 > 1.  Try to access only the string "three" from the list L created previously.
 > 2.  Check the class type of each element of list L.
+
+<br>
+
+#### Go to the [next section](https://luiscartor.github.io/RMT_part2).
